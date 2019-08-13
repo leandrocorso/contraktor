@@ -1,0 +1,79 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 1,
+      "title": "Contrato imobiliário",
+      "effectiveDate": "2019-01-08 00:00:00",
+      "expirationDate": "2020-01-08 23:59:59",
+      "filename": "contrato-imobiliario.pdf",
+      "parts": []
+    },
+    {
+      "id": 2,
+      "title": "Contrato de compra e venda",
+      "effectiveDate": "2017-05-08 00:00:00",
+      "expirationDate": "2018-05-08 23:59:59",
+      "filename": "contrato-de-compra-e-venda.pdf",
+      "parts": [
+        {
+          "id": 6,
+          "firstname": "Maria",
+          "lastname": "Domingues",
+          "email": "maria@domingues.com",
+          "phone": "66666666666",
+          "document": "66666666666"
+        },
+        {
+          "id": 7,
+          "firstname": "Márcia",
+          "lastname": "Vasconcelos",
+          "email": "marcia@vasconceloas.com",
+          "phone": "77777777777",
+          "document": "77777777777"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Contrato de prestação de serviço",
+      "effectiveDate": "2012-07-28 00:00:00",
+      "expirationDate": "2030-07-28 23:59:59",
+      "filename": "contrato-de-prestacao-de-servico.pdf",
+      "parts": []
+    },
+    {
+      "id": 4,
+      "title": "Contrato matrimonial",
+      "effectiveDate": "2010-10-20 00:00:00",
+      "expirationDate": "2100-31-12 23:59:59",
+      "filename": "contrato-matrimonial.pdf",
+      "parts": [
+        {
+          "id": 4,
+          "firstname": "Bernardo",
+          "lastname": "Xavier",
+          "email": "bernardo@xavier.com",
+          "phone": "44444444444",
+          "document": "44444444444"
+        },
+        {
+          "id": 9,
+          "firstname": "Martha",
+          "lastname": "Kent",
+          "email": "martha@kent.com",
+          "phone": "99999999999",
+          "document": "99999999999"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Contrato modelo",
+      "effectiveDate": "1990-01-01 00:00:00",
+      "expirationDate": "2020-01-01 23:59:59",
+      "filename": "contrato-modelo.pdf",
+      "parts": []
+    }
+  ]
+}

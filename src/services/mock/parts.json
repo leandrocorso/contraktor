@@ -1,0 +1,127 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 1,
+      "firstname": "José",
+      "lastname": "da Silva",
+      "email": "jose@da-silva.com",
+      "phone": "11111111111",
+      "document": "11111111111",
+      "contracts": []
+    },
+    {
+      "id": 2,
+      "firstname": "Antônio",
+      "lastname": "de Oliveira",
+      "email": "antonio@de-oliveira.com",
+      "phone": "22222222222",
+      "document": "22222222222",
+      "contracts": []
+    },
+    {
+      "id": 3,
+      "firstname": "Pedro",
+      "lastname": "Almeira",
+      "email": "pedro@almeida.com",
+      "phone": "33333333333",
+      "document": "33333333333",
+      "contracts": []
+    },
+    {
+      "id": 4,
+      "firstname": "Bernardo",
+      "lastname": "Xavier",
+      "email": "bernardo@xavier.com",
+      "phone": "44444444444",
+      "document": "44444444444",
+      "contracts": [
+        {
+          "id": 4,
+          "title": "Contrato matrimonial",
+          "effectiveDate": "2010-10-20 00:00:00",
+          "expirationDate": "2100-31-12 23:59:59",
+          "filename": "contrato-matrimonial.pdf"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "firstname": "Bruno",
+      "lastname": "de Souza",
+      "email": "bruno@de-souza.com",
+      "phone": "55555555555",
+      "document": "55555555555",
+      "contracts": []
+    },
+    {
+      "id": 6,
+      "firstname": "Maria",
+      "lastname": "Domingues",
+      "email": "maria@domingues.com",
+      "phone": "66666666666",
+      "document": "66666666666",
+      "contracts": [
+        {
+          "id": 2,
+          "title": "Contrato de compra e venda",
+          "effectiveDate": "2017-05-08 00:00:00",
+          "expirationDate": "2018-05-08 23:59:59",
+          "filename": "contrato-de-compra-e-venda.pdf"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "firstname": "Márcia",
+      "lastname": "Vasconcelos",
+      "email": "marcia@vasconceloas.com",
+      "phone": "77777777777",
+      "document": "77777777777",
+      "contracts": [
+        {
+          "id": 2,
+          "title": "Contrato de compra e venda",
+          "effectiveDate": "2017-05-08 00:00:00",
+          "expirationDate": "2018-05-08 23:59:59",
+          "filename": "contrato-de-compra-e-venda.pdf"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "firstname": "Jandira",
+      "lastname": "Alves",
+      "email": "jandira@alves.com",
+      "phone": "88888888888",
+      "document": "88888888888",
+      "contracts": []
+    },
+    {
+      "id": 9,
+      "firstname": "Martha",
+      "lastname": "Kent",
+      "email": "martha@kent.com",
+      "phone": "99999999999",
+      "document": "99999999999",
+      "contracts": [
+        {
+          "id": 4,
+          "title": "Contrato matrimonial",
+          "effectiveDate": "2010-10-20 00:00:00",
+          "expirationDate": "2100-31-12 23:59:59",
+          "filename": "contrato-matrimonial.pdf"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "firstname": "Martha",
+      "lastname": "Wayne",
+      "email": "marth@wayne.com",
+      "phone": "00000000000",
+      "document": "00000000000",
+      "contracts": []
+    }
+  ]
+}
